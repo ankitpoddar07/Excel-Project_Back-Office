@@ -1,0 +1,6 @@
+1. Data cleaning
+2. Data processing
+3. Data Analysis
+4. Data visualization
+5. dashboard Reports
+6. Insights share with Client
